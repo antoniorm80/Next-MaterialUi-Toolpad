@@ -1,17 +1,5 @@
 {
-  "node": {
-    "70f5d280111bf2dedaf09deeeeab53dcba0f113da4": {
-      "workers": {
-        "app/auth/signin/page": {
-          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CProyectos%5C%5CReact%5C%5Ctoolpad%5C%5Capp%5C%5Cauth%5C%5Csignin%5C%5Cactions.ts%22%2C%5B%5B%2270f5d280111bf2dedaf09deeeeab53dcba0f113da4%22%2C%22default%22%5D%5D%5D%5D&__client_imported__=!",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/auth/signin/page": "rsc"
-      }
-    }
-  },
+  "node": {},
   "edge": {},
   "encryptionKey": "rQDzaJq6ug/l2KFl2xbjMP7RpVucri+/0jGeQoCQrOw="
 }
