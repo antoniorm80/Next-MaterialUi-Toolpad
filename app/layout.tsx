@@ -5,7 +5,7 @@ import DashboardIcon from '@mui/icons-material/Dashboard';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import ReceiptIcon from '@mui/icons-material/Receipt';
 import CoPresentIcon from '@mui/icons-material/CoPresent';
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import type { Navigation } from '@toolpad/core/AppProvider';
 import { SessionProvider, signIn, signOut } from 'next-auth/react';
 import { auth } from '../auth';
